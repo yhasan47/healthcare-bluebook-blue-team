@@ -1,0 +1,6 @@
+npi,np_last_orgname,np_entity_code,np_city,np_state,p_type,place_of_service,HCPCS,hcpcs_description,unique_beneficiary,bene_day_srvc_cnt,avg_medicare_allowed,avg_medicare_pymt,ZIP
+1124498357,ENDOSCOPY CENTER OF INLAND EMPIRE LLC,O,NASHVILLE,TN,Ambulatory Surgical Center,F,43249,Balloon dilation of esophagus using an endoscope,16,16,660.99,512.294375,37219
+1225039761,ENDOSCOPY CENTER OF ST THOMAS LP,O,NASHVILLE,TN,Ambulatory Surgical Center,F,43249,Balloon dilation of esophagus using an endoscope,16,17,565.63647059,435.02470588,37205
+1295708964,COLUMBIA TN ENDOSCOPY ASC LLC,O,COLUMBIA,TN,Ambulatory Surgical Center,F,43249,Balloon dilation of esophagus using an endoscope,29,34,587.11,454.43147059,38401
+1427152073,PATIENT PARTNERS LLC,O,GALLATIN,TN,Ambulatory Surgical Center,F,43249,Balloon dilation of esophagus using an endoscope,23,23,587.11,456.56478261,37066
+1639299803,MURFREESBORO MEDICAL CLINIC P A,O,MURFREESBORO,TN,Ambulatory Surgical Center,F,43249,Balloon dilation of esophagus using an endoscope,32,33,587.11,433.11151515,37129
