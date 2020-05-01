@@ -1,0 +1,18 @@
+Provider_ID,Provider_Name,Provider_Street,Provider_City,Provider_State,Provider_Zip,Provider_Hospital_Referral_Region,APC,APC_Description,Beneficiaries,Comprehensive_APC_Services,Avg_Est_Total_submitted_amt,Avg_Medicare_Allowed,Avg_Medicare_pymt
+440003,Sumner Regional Medical Center,555 Hartsville Pike,Gallatin,TN,37066,TN - Nashville,5302,Level 2 Upper GI Procedures,103.0,114,7458.73263157892,1223.4548245614,968.390614035087
+440006,Tristar Skyline Medical Center,3441 Dickerson Pike,Nashville,TN,37207,TN - Nashville,5302,Level 2 Upper GI Procedures,13.0,15,14899.4366666666,1248.62,994.84
+440029,Williamson Medical Center,4321 Carothers Parkway,Franklin,TN,37067,TN - Nashville,5302,Level 2 Upper GI Procedures,16.0,18,5393.22111111111,1248.62,994.84
+440039,Vanderbilt University Medical Center,1211 Medical Center Drive,Nashville,TN,37232,TN - Nashville,5302,Level 2 Upper GI Procedures,477.0,623,7120.82404494383,1205.62054574638,958.820642054579
+440046,Tristar Horizon Medical Center,111 Highway 70 East,Dickson,TN,37055,TN - Nashville,5302,Level 2 Upper GI Procedures,12.0,13,13325.1392307692,1095.56769230769,841.787692307692
+440053,Saint Thomas Rutherford Hospital,1700 Medical Center Parkway,Murfreesboro,TN,37129,TN - Nashville,5302,Level 2 Upper GI Procedures,50.0,55,10690.859090909,1248.62,994.839999999998
+440065,Northcrest Medical Center,100 Northcrest Drive,Springfield,TN,37172,TN - Nashville,5302,Level 2 Upper GI Procedures,26.0,29,6493.11206896551,1248.62,994.84
+440073,Maury Regional Hospital,1224 Trotwood Ave,Columbia,TN,38401,TN - Nashville,5302,Level 2 Upper GI Procedures,209.0,254,4928.17677165354,1229.63913385826,973.600787401571
+440082,Saint Thomas West Hospital,"4220 Harding Rd, Po Box 380",Nashville,TN,37205,TN - Nashville,5302,Level 2 Upper GI Procedures,189.0,207,6350.16400966183,1224.59004830917,970.810048309174
+440111,Metro Nashville General Hospital,1818 Albion Street,Nashville,TN,37208,TN - Nashville,5302,Level 2 Upper GI Procedures,11.0,12,4488.7875,1248.62,994.84
+440133,Saint Thomas Midtown Hospital,2000 Church St,Nashville,TN,37236,TN - Nashville,5302,Level 2 Upper GI Procedures,76.0,98,8420.00918367347,1238.46857142857,984.688571428569
+440150,Tristar Summit Medical Center,5655 Frist Blvd,Hermitage,TN,37076,TN - Nashville,5302,Level 2 Upper GI Procedures,16.0,21,11958.9795238095,1159.03095238095,905.250952380952
+440161,Tristar Centennial Medical Center,2300 Patterson Street,Nashville,TN,37203,TN - Nashville,5302,Level 2 Upper GI Procedures,151.0,170,11861.7293529411,1207.656,953.876
+440193,Tennova Healthcare-Lebanon,1411 Baddour Parkway,Lebanon,TN,37087,TN - Nashville,5302,Level 2 Upper GI Procedures,29.0,30,17455.66,1182.29733333333,928.517333333333
+440194,Tristar Hendersonville Medical Center,355 New Shackle Island Rd,Hendersonville,TN,37075,TN - Nashville,5302,Level 2 Upper GI Procedures,85.0,92,15882.3398913043,1142.07652173913,886.705217391302
+440197,Tristar Southern Hills Medical Center,391 Wallace Rd,Nashville,TN,37211,TN - Nashville,5302,Level 2 Upper GI Procedures,44.0,49,20273.7520408163,1228.33632653061,973.597142857143
+440227,Tristar Stonecrest Medical Center,200 Stonecrest Boulevard,Smyrna,TN,37167,TN - Nashville,5302,Level 2 Upper GI Procedures,47.0,51,12777.0380392156,1170.59333333333,916.813333333333
